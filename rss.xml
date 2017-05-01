@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>minipaper&#39;s IT DEV Blog</title>
+    <link>http://minipaper.github.io/</link>
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>minipaper&#39;s IT DEV Blog</description>
+    <pubDate>Mon, 01 May 2017 09:07:29 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Guide to programming</title>
+      <link>http://minipaper.github.io/2016/09/11/guide-to-programming/</link>
+      <guid>http://minipaper.github.io/2016/09/11/guide-to-programming/</guid>
+      <pubDate>Sun, 11 Sep 2016 01:11:28 GMT</pubDate>
+      <description>
+      
+        &lt;h1 id=&quot;문서-작성중&quot;&gt;&lt;a href=&quot;#문서-작성중&quot; class=&quot;headerlink&quot; title=&quot; 문서 작성중 &quot;&gt;&lt;/a&gt;&lt;strong&gt; 문서 작성중 &lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;&lt;strong&gt; On this page &lt;/strong&gt;&lt;/
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h1 id="문서-작성중"><a href="#문서-작성중" class="headerlink" title=" 문서 작성중 "></a><strong> 문서 작성중 </strong></h1><p><strong> On this page </strong></p>
+<h2 id="Gradle"><a href="#Gradle" class="headerlink" title="Gradle"></a>Gradle</h2><p>Gradle은 Groovy를 이용한 빌드 시스템이다. Groovy와 유사한 도메인 언어를 채용하였으며, 현재 안드로이드 앱을 만드는데 필요한 안드로이드 스튜디오의 공식 빌드 시스템이기도 하다. Java, C/C++, Python 등과 같은 여러 가지 언어를 지원한다.</p>
+<h3 id="Site"><a href="#Site" class="headerlink" title="Site"></a>Site</h3><ul>
+<li><a href="https://gradle.org/" target="_blank" rel="external">공식 사이트</a></li>
+</ul>
+<h3 id="Tutorial"><a href="#Tutorial" class="headerlink" title="Tutorial"></a>Tutorial</h3><ul>
+<li>무식하게 배우는 gradle: <a href="http://www.slideshare.net/ihoneymon/gradle-27152839" target="_blank" rel="external">slideshare 김지헌님(ko)</a>, <a href="https://github.com/ihoneymon/rocking-the-gradle" target="_blank" rel="external">githup(ko)</a></li>
+<li><a href="http://dynaticy.tistory.com/entry/Gradle%EB%A1%9C-SpringMVC-%EC%95%84%EC%A3%BC-%EC%89%BD%EA%B2%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%9A%A9" target="_blank" rel="external">Gradle로 SpringMVC 아주 쉽게! 구축하기</a></li>
+</ul>
+<h2 id="GitLab"><a href="#GitLab" class="headerlink" title="GitLab"></a>GitLab</h2><p>버전관리 시스템을 구현한 구체적인 제품 중의 하나로 분산형 버전관리 시스템이라는 특징을 가지고 있고, 가장 많이 사용하는 버전관리 시스템 중의 하나다.</p>
+<h3 id="Site-1"><a href="#Site-1" class="headerlink" title="Site"></a>Site</h3><ul>
+<li><a href="https://about.gitlab.com" target="_blank" rel="external">공식 사이트</a></li>
+<li><a href="https://git-scm.com/book/ko/v2/Git-%EC%84%9C%EB%B2%84-GitLab" target="_blank" rel="external">Git 서버 - GitLab</a></li>
+</ul>
+<h3 id="Tutorial-1"><a href="#Tutorial-1" class="headerlink" title="Tutorial"></a>Tutorial</h3><ul>
+<li><a href="https://opentutorials.org/course/785/4933" target="_blank" rel="external">생활코딩</a></li>
+</ul>
+<h3 id="종류"><a href="#종류" class="headerlink" title="종류"></a>종류</h3><ul>
+<li>GitLab CE: Community Edition</li>
+<li>GitLab EE: Enterprise Edition</li>
+</ul>
+<p>###</p>
+<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><p><a href="http://www.freepik.com/free-vector/student-reading-illustration_826080.htm" target="_blank" rel="external">Student Reading Illustration Designed by Freepik</a></p>
+]]></content:encoded>
+      
+      <comments>http://minipaper.github.io/2016/09/11/guide-to-programming/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>내가 설치한 프로그램</title>
+      <link>http://minipaper.github.io/2016/09/08/useful-mac-software/</link>
+      <guid>http://minipaper.github.io/2016/09/08/useful-mac-software/</guid>
+      <pubDate>Wed, 07 Sep 2016 15:33:54 GMT</pubDate>
+      <description>
+      
+        &lt;h2 id=&quot;Useful-Application&quot;&gt;&lt;a href=&quot;#Useful-Application&quot; class=&quot;headerlink&quot; title=&quot;Useful Application&quot;&gt;&lt;/a&gt;Useful Application&lt;/h2&gt;&lt;p&gt;유용하게 사
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h2 id="Useful-Application"><a href="#Useful-Application" class="headerlink" title="Useful Application"></a>Useful Application</h2><p>유용하게 사용하는 프로그램 목록</p>
+<ul>
+<li><a href="https://1password.com" target="_blank" rel="external">1password</a> - Password manager</li>
+<li><a href="http://www.alfredapp.com" target="_blank" rel="external">Alfred</a> – Keyboard command prompt</li>
+<li><a href="https://atom.io/" target="_blank" rel="external">Atom</a> - Text editor</li>
+<li><a href="http://cyberduck.ch" target="_blank" rel="external">Cyberduck</a> – FTP, SFTP, WebDAV, S3, Backblaze B2, Azure &amp; OpenStack Swift browser</li>
+<li><a href="http://kapeli.com/dash" target="_blank" rel="external">Dash</a> – API Documentation Browser</li>
+<li><a href="http://dropbox.com" target="_blank" rel="external">Dropbox</a> – Cloud file storage</li>
+<li><a href="http://evernote.com/" target="_blank" rel="external">Evernote</a> - 클라우드 메모</li>
+<li><a href="https://www.sourcetreeapp.com" target="_blank" rel="external">Sourcetree</a> – Git GUI client</li>
+<li><a href="http://www.google.co.uk/chrome" target="_blank" rel="external">Google Chrome</a> – Web browser</li>
+<li><a href="http://www.iterm2.com" target="_blank" rel="external">iTerm2</a> – Terminal replacement</li>
+<li><a href="https://www.jetbrains.com/idea/" target="_blank" rel="external">IntelliJ IDEA</a> - IDE 툴</li>
+<li><a href="http://www.eclipse.org/" target="_blank" rel="external">Eclipse</a> - IDE 툴</li>
+<li><a href="http://www.cockos.com/licecap/" target="_blank" rel="external">LICEcap</a> – 움직이는 GIF 만들기</li>
+<li><a href="http://reederapp.com" target="_blank" rel="external">Reeder</a> – RSS reader <strong><em>(유료)</em></strong></li>
+<li><a href="http://spectacleapp.com" target="_blank" rel="external">Spectacle</a> – Keyboard window management</li>
+<li><a href="http://www.typora.io/" target="_blank" rel="external">Typora</a> - Markdown Editor <strong><em>(Free during beta)</em></strong></li>
+<li><a href="https://itunes.apple.com/kr/app/typeeto-remote-full-size-bluetooth/id970502923?mt=12" target="_blank" rel="external">Typeeto</a> - Bluetooth keyboard</li>
+<li><a href="http://coppertino.com/vox/mac/" target="_blank" rel="external">VOX</a> - Music player</li>
+<li><a href="http://www.videolan.org/vlc" target="_blank" rel="external">VLC</a> - Video player</li>
+<li><a href="http://www.weatherwall.io" target="_blank" rel="external">Weather Wall</a> - 날씨에 맞는 바탕화면</li>
+<li><a href="https://itunes.apple.com/kr/app/rocket-fuel/id1114196460?mt=12" target="_blank" rel="external">Rocket Fuel</a> - 맥 잠자기 방지 앱</li>
+<li><a href="https://itunes.apple.com/us/app/popclip/id445189367?mt=12" target="_blank" rel="external">Popclip</a> - Context 메뉴 액션 툴</li>
+<li><a href="https://itunes.apple.com/kr/app/crossoft-screenshoter-pro/id972317838?mt=12" target="_blank" rel="external">Screenshoter Pro</a> - 영역 캡쳐</li>
+<li><em>(언제든지 추가 변경 될 수 있음)</em></li>
+</ul>
+<h2 id="Command-Line-Tools"><a href="#Command-Line-Tools" class="headerlink" title="Command Line Tools"></a>Command Line Tools</h2><h3 id="Install-homebrew"><a href="#Install-homebrew" class="headerlink" title="Install homebrew"></a>Install homebrew</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">/usr/bin/ruby <span class="_">-e</span> <span class="string">"<span class="variable">$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)</span>"</span></div></pre></td></tr></table></figure>
+<h3 id="Install-homebrew-cask"><a href="#Install-homebrew-cask" class="headerlink" title="Install homebrew-cask"></a>Install homebrew-cask</h3><p><code>homebrew-cast</code>는 macOS 의 어플리케이션을 편하고 빠르게 CLI툴로 설치할 수 있게 만들어 줍니다. - <a href="https://caskroom.github.io" target="_blank" rel="external">https://caskroom.github.io</a></p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">brew tap caskroom/cask</div></pre></td></tr></table></figure>
+<p>Usage<br><figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># 검색</span></div><div class="line">brew cask search &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask search chrome</div><div class="line"></div><div class="line"><span class="comment"># 목록</span></div><div class="line">brew cask list</div><div class="line"></div><div class="line"><span class="comment"># 설치</span></div><div class="line">brew cask install &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask install google-chrome</div><div class="line"></div><div class="line"><span class="comment"># 삭제</span></div><div class="line">brew cask uninstall &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask uninstall google-chrome</div></pre></td></tr></table></figure></p>
+<p><img src="https://i.imgur.com/WYa2557.gif" width="450px" alt="Installing Atom (animated gif)"></p>
+<p>자세한 사용법 공식 <a href="https://github.com/caskroom/homebrew-cask/blob/master/USAGE.md" target="_blank" rel="external">Usage</a> 참조</p>
+]]></content:encoded>
+      
+      <comments>http://minipaper.github.io/2016/09/08/useful-mac-software/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
