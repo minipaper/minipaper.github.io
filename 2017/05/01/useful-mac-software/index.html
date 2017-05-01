@@ -29,16 +29,17 @@
 
     
 
-    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/vendor/titillium-web/styles.css">
-    <link rel="stylesheet" href="/vendor/source-code-pro/styles.css">
+    <link rel="stylesheet" href="/libs/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/libs/titillium-web/styles.css">
+    <link rel="stylesheet" href="/libs/source-code-pro/styles.css">
 
     <link rel="stylesheet" href="/css/style.css">
 
-    <script src="/vendor/jquery/2.0.3/jquery.min.js"></script>
+    <script src="/libs/jquery/2.0.3/jquery.min.js"></script>
     
     
-        <link rel="stylesheet" href="/vendor/lightgallery/css/lightgallery.min.css">
+        <link rel="stylesheet" href="/libs/lightgallery/css/lightgallery.min.css">
+    
     
     
         <script type="text/javascript">
@@ -158,12 +159,19 @@ ga('send', 'pageview');
             </header>
         
         
-            <div class="article-subtitle">
-                <a href="/2017/05/01/useful-mac-software/" class="article-date">
-    <time datetime="2017-05-01T10:43:54.000Z" itemprop="datePublished">2017-05-01</time>
-</a>
+            <div class="article-meta">
                 
-    <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/mac/">mac</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/software/">software</a></li></ul>
+    <div class="article-date">
+        <a href="/2017/05/01/useful-mac-software/" class="article-date">
+            <time datetime="2017-05-01T10:43:54.000Z" itemprop="datePublished">2017-05-01</time>
+        </a>
+    </div>
+
+                
+    <div class="article-tag">
+        <i class="fa fa-tag"></i>
+        <a class="tag-link" href="/tags/mac/">mac</a>, <a class="tag-link" href="/tags/software/">software</a>
+    </div>
 
             </div>
         
@@ -205,10 +213,10 @@ ga('send', 'pageview');
 <li><a href="https://itunes.apple.com/kr/app/paste-smart-cloud-clipboard-snippets-manager/id967805235?mt=12" target="_blank" rel="external">Paste</a> - Paste 클립보드 매니저</li>
 <li><em>(언제든지 추가 변경 될 수 있음)</em></li>
 </ul>
-<h2 id="Command-Line-Tools"><a href="#Command-Line-Tools" class="headerlink" title="Command Line Tools"></a>Command Line Tools</h2><h3 id="Install-homebrew"><a href="#Install-homebrew" class="headerlink" title="Install homebrew"></a>Install homebrew</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">/usr/bin/ruby <span class="_">-e</span> <span class="string">"<span class="variable">$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)</span>"</span></div></pre></td></tr></table></figure>
+<h2 id="Command-Line-Tools"><a href="#Command-Line-Tools" class="headerlink" title="Command Line Tools"></a>Command Line Tools</h2><h3 id="Install-homebrew"><a href="#Install-homebrew" class="headerlink" title="Install homebrew"></a>Install homebrew</h3><figure class="highlight sh"><table><tr><td class="code"><pre><div class="line">/usr/bin/ruby <span class="_">-e</span> <span class="string">"<span class="variable">$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)</span>"</span></div></pre></td></tr></table></figure>
 <h3 id="Install-homebrew-cask"><a href="#Install-homebrew-cask" class="headerlink" title="Install homebrew-cask"></a>Install homebrew-cask</h3><p><code>homebrew-cast</code>는 macOS 의 어플리케이션을 편하고 빠르게 CLI툴로 설치할 수 있게 만들어 줍니다. - <a href="https://caskroom.github.io" target="_blank" rel="external">https://caskroom.github.io</a></p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">brew tap caskroom/cask</div></pre></td></tr></table></figure>
-<p>Usage<br><figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># 검색</span></div><div class="line">brew cask search &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask search chrome</div><div class="line"></div><div class="line"><span class="comment"># 목록</span></div><div class="line">brew cask list</div><div class="line"></div><div class="line"><span class="comment"># 설치</span></div><div class="line">brew cask install &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask install google-chrome</div><div class="line"></div><div class="line"><span class="comment"># 삭제</span></div><div class="line">brew cask uninstall &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask uninstall google-chrome</div></pre></td></tr></table></figure></p>
+<figure class="highlight sh"><table><tr><td class="code"><pre><div class="line">brew tap caskroom/cask</div></pre></td></tr></table></figure>
+<p>Usage<br><figure class="highlight sh"><table><tr><td class="code"><pre><div class="line"><span class="comment"># 검색</span></div><div class="line">brew cask search &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask search chrome</div><div class="line"></div><div class="line"><span class="comment"># 목록</span></div><div class="line">brew cask list</div><div class="line"></div><div class="line"><span class="comment"># 설치</span></div><div class="line">brew cask install &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask install google-chrome</div><div class="line"></div><div class="line"><span class="comment"># 삭제</span></div><div class="line">brew cask uninstall &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask uninstall google-chrome</div></pre></td></tr></table></figure></p>
 <p><img src="https://i.imgur.com/WYa2557.gif" width="450px" alt="Installing Atom (animated gif)"></p>
 <p>자세한 사용법 공식 <a href="https://github.com/caskroom/homebrew-cask/blob/master/USAGE.md" target="_blank" rel="external">Usage</a> 참조</p>
 <h2 id="Setting"><a href="#Setting" class="headerlink" title="Setting"></a>Setting</h2><h3 id="iTerm2-Oh-My-Zsh"><a href="#iTerm2-Oh-My-Zsh" class="headerlink" title="iTerm2 + Oh My Zsh"></a>iTerm2 + Oh My Zsh</h3><p><img src="https://gist.githubusercontent.com/kevin-smets/9722391f8b3e4fa436b1c1dcf05ecd88/raw/29389beaa891f939e274b8e20622647357e793d4/powerlevel9k.png" alt="iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font + [Powerlevel9k]"></p>
@@ -223,7 +231,7 @@ ga('send', 'pageview');
 
 
 
-    <a data-url="http://minipaper.github.io/2017/05/01/useful-mac-software/" data-id="cj25zzg2j0008r2o472so9u9a" class="article-share-link"><i class="fa fa-share"></i>Share</a>
+    <a data-url="http://minipaper.github.io/2017/05/01/useful-mac-software/" data-id="cj26d9wnx000c14o4eat8hsex" class="article-share-link"><i class="fa fa-share"></i>Share</a>
 <script>
     (function ($) {
         $('body').on('click', function() {
@@ -297,6 +305,7 @@ ga('send', 'pageview');
     
     </section>
 
+
                         </div>
                     </section>
                     <aside id="sidebar">
@@ -329,6 +338,21 @@ ga('send', 'pageview');
     <!-- //github card  -->
     
         
+<nav id="article-nav">
+    
+        <a href="/2017/05/02/angular2-spring-boot/" id="article-nav-newer" class="article-nav-link-wrap">
+        <strong class="article-nav-caption">newer</strong>
+        <p class="article-nav-title">
+        
+            angular2 with spring boot
+        
+        </p>
+        <i class="icon fa fa-chevron-right" id="icon-chevron-right"></i>
+    </a>
+    
+    
+</nav>
+
     
     <div class="widgets-container">
         
@@ -338,6 +362,26 @@ ga('send', 'pageview');
         <h3 class="widget-title">recents</h3>
         <div class="widget">
             <ul id="recent-post" class="">
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2017/05/02/angular2-spring-boot/" class="thumbnail">
+    
+    
+        <span style="background-image:url(/images/angular2-spring-boot-title.png)" alt="angular2 with spring boot" class="thumbnail-image"></span>
+    
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/Dev/">Dev</a></p>
+                            <p class="item-title"><a href="/2017/05/02/angular2-spring-boot/" class="title">angular2 with spring boot</a></p>
+                            <p class="item-date"><time datetime="2017-05-01T16:14:01.000Z" itemprop="datePublished">2017-05-02</time></p>
+                        </div>
+                    </li>
                 
                     <li>
                         
@@ -368,7 +412,7 @@ ga('send', 'pageview');
     <div class="widget-wrap widget-list">
         <h3 class="widget-title">categories</h3>
         <div class="widget">
-            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Dev/">Dev</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Dev/MAC/">MAC</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Dev/MAC/Software/">Software</a><span class="category-list-count">1</span></li></ul></li></ul></li></ul>
+            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/Dev/">Dev</a><span class="category-list-count">2</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Dev/MAC/">MAC</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Dev/MAC/Software/">Software</a><span class="category-list-count">1</span></li></ul></li></ul></li></ul>
         </div>
     </div>
 
@@ -378,7 +422,7 @@ ga('send', 'pageview');
     <div class="widget-wrap widget-list">
         <h3 class="widget-title">archives</h3>
         <div class="widget">
-            <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/05/">May 2017</a><span class="archive-list-count">1</span></li></ul>
+            <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/05/">May 2017</a><span class="archive-list-count">2</span></li></ul>
         </div>
     </div>
 
@@ -388,7 +432,7 @@ ga('send', 'pageview');
     <div class="widget-wrap widget-list">
         <h3 class="widget-title">tags</h3>
         <div class="widget">
-            <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/mac/">mac</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/software/">software</a><span class="tag-list-count">1</span></li></ul>
+            <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/angular2/">angular2</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/mac/">mac</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/software/">software</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/spring-boot/">spring boot</a><span class="tag-list-count">1</span></li></ul>
         </div>
     </div>
 
@@ -398,7 +442,7 @@ ga('send', 'pageview');
     <div class="widget-wrap widget-float">
         <h3 class="widget-title">tag cloud</h3>
         <div class="widget tagcloud">
-            <a href="/tags/mac/" style="font-size: 10px;">mac</a> <a href="/tags/software/" style="font-size: 10px;">software</a>
+            <a href="/tags/angular2/" style="font-size: 10px;">angular2</a> <a href="/tags/mac/" style="font-size: 10px;">mac</a> <a href="/tags/software/" style="font-size: 10px;">software</a> <a href="/tags/spring-boot/" style="font-size: 10px;">spring boot</a>
         </div>
     </div>
 
@@ -461,16 +505,19 @@ ga('send', 'pageview');
 
 
 
+
     
-        <script src="/vendor/lightgallery/js/lightgallery.min.js"></script>
-        <script src="/vendor/lightgallery/js/lg-thumbnail.min.js"></script>
-        <script src="/vendor/lightgallery/js/lg-pager.min.js"></script>
-        <script src="/vendor/lightgallery/js/lg-autoplay.min.js"></script>
-        <script src="/vendor/lightgallery/js/lg-fullscreen.min.js"></script>
-        <script src="/vendor/lightgallery/js/lg-zoom.min.js"></script>
-        <script src="/vendor/lightgallery/js/lg-hash.min.js"></script>
-        <script src="/vendor/lightgallery/js/lg-share.min.js"></script>
-        <script src="/vendor/lightgallery/js/lg-video.min.js"></script>
+        <script src="/libs/lightgallery/js/lightgallery.min.js"></script>
+        <script src="/libs/lightgallery/js/lg-thumbnail.min.js"></script>
+        <script src="/libs/lightgallery/js/lg-pager.min.js"></script>
+        <script src="/libs/lightgallery/js/lg-autoplay.min.js"></script>
+        <script src="/libs/lightgallery/js/lg-fullscreen.min.js"></script>
+        <script src="/libs/lightgallery/js/lg-zoom.min.js"></script>
+        <script src="/libs/lightgallery/js/lg-hash.min.js"></script>
+        <script src="/libs/lightgallery/js/lg-share.min.js"></script>
+        <script src="/libs/lightgallery/js/lg-video.min.js"></script>
+    
+    
     
 
 
