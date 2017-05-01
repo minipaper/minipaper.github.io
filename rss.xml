@@ -8,7 +8,7 @@
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>minipaper&#39;s IT DEV Blog</description>
-    <pubDate>Mon, 01 May 2017 09:11:16 GMT</pubDate>
+    <pubDate>Mon, 01 May 2017 10:41:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -25,6 +25,7 @@
       <content:encoded><![CDATA[<h2 id="Useful-Application"><a href="#Useful-Application" class="headerlink" title="Useful Application"></a>Useful Application</h2><p>유용하게 사용하는 프로그램 목록</p>
 <ul>
 <li><a href="https://1password.com" target="_blank" rel="external">1password</a> - Password manager</li>
+<li><a href="https://freemacsoft.net/appcleaner/" target="_blank" rel="external">Appcleaner</a> – Application Uninstaller</li>
 <li><a href="http://www.alfredapp.com" target="_blank" rel="external">Alfred</a> – Keyboard command prompt</li>
 <li><a href="https://atom.io/" target="_blank" rel="external">Atom</a> - Text editor</li>
 <li><a href="http://cyberduck.ch" target="_blank" rel="external">Cyberduck</a> – FTP, SFTP, WebDAV, S3, Backblaze B2, Azure &amp; OpenStack Swift browser</li>
@@ -33,20 +34,30 @@
 <li><a href="http://evernote.com/" target="_blank" rel="external">Evernote</a> - 클라우드 메모</li>
 <li><a href="https://www.sourcetreeapp.com" target="_blank" rel="external">Sourcetree</a> – Git GUI client</li>
 <li><a href="http://www.google.co.uk/chrome" target="_blank" rel="external">Google Chrome</a> – Web browser</li>
-<li><a href="http://www.iterm2.com" target="_blank" rel="external">iTerm2</a> – Terminal replacement</li>
+<li><a href="https://lhc70000.github.io/iina/" target="_blank" rel="external">IINA</a> – The modern video player for macOS</li>
+<li><a href="http://www.iterm2.com" target="_blank" rel="external">iTerm2</a> – Terminal replacement<blockquote>
+<p><a href="http://ohmyz.sh/" target="_blank" rel="external">oh my zsh</a> – plugins</p>
+</blockquote>
+</li>
+<li><a href="https://itunes.apple.com/kr/app/magnet-%EB%A7%88%EA%B7%B8%EB%84%B7/id441258766?mt=12" target="_blank" rel="external">Magnet</a> – window split</li>
 <li><a href="https://www.jetbrains.com/idea/" target="_blank" rel="external">IntelliJ IDEA</a> - IDE 툴</li>
-<li><a href="http://www.eclipse.org/" target="_blank" rel="external">Eclipse</a> - IDE 툴</li>
 <li><a href="http://www.cockos.com/licecap/" target="_blank" rel="external">LICEcap</a> – 움직이는 GIF 만들기</li>
-<li><a href="http://reederapp.com" target="_blank" rel="external">Reeder</a> – RSS reader <strong><em>(유료)</em></strong></li>
+<li><a href="http://www.kekaosx.com/en/" target="_blank" rel="external">Keka</a> - Keka is a free file archiver for macOS</li>
+<li><a href="https://kodi.tv/" target="_blank" rel="external">Kodi</a> - TVHEADEND Client</li>
+<li><a href="https://www.meistertask.com/ko/apps" target="_blank" rel="external">MeisterTask</a> - 프로젝트 및 작업 관리 도구</li>
+<li><a href="http://reederapp.com" target="_blank" rel="external">Reeder</a> – RSS reader</li>
 <li><a href="http://spectacleapp.com" target="_blank" rel="external">Spectacle</a> – Keyboard window management</li>
+<li><a href="https://slack.com/downloads/osx" target="_blank" rel="external">Slack</a> - Team communication</li>
+<li><a href="https://itunes.apple.com/kr/app/%ED%83%AD-%EB%B2%88%EC%97%AD%EC%9D%80/id458887729?mt=12" target="_blank" rel="external">Translate Tab</a> - 번역</li>
 <li><a href="http://www.typora.io/" target="_blank" rel="external">Typora</a> - Markdown Editor <strong><em>(Free during beta)</em></strong></li>
 <li><a href="https://itunes.apple.com/kr/app/typeeto-remote-full-size-bluetooth/id970502923?mt=12" target="_blank" rel="external">Typeeto</a> - Bluetooth keyboard</li>
 <li><a href="http://coppertino.com/vox/mac/" target="_blank" rel="external">VOX</a> - Music player</li>
 <li><a href="http://www.videolan.org/vlc" target="_blank" rel="external">VLC</a> - Video player</li>
+<li><a href="https://code.visualstudio.com/download" target="_blank" rel="external">Visual Studio Code</a> - Visual Studio Code</li>
 <li><a href="http://www.weatherwall.io" target="_blank" rel="external">Weather Wall</a> - 날씨에 맞는 바탕화면</li>
 <li><a href="https://itunes.apple.com/kr/app/rocket-fuel/id1114196460?mt=12" target="_blank" rel="external">Rocket Fuel</a> - 맥 잠자기 방지 앱</li>
 <li><a href="https://itunes.apple.com/us/app/popclip/id445189367?mt=12" target="_blank" rel="external">Popclip</a> - Context 메뉴 액션 툴</li>
-<li><a href="https://itunes.apple.com/kr/app/crossoft-screenshoter-pro/id972317838?mt=12" target="_blank" rel="external">Screenshoter Pro</a> - 영역 캡쳐</li>
+<li><a href="https://itunes.apple.com/kr/app/paste-smart-cloud-clipboard-snippets-manager/id967805235?mt=12" target="_blank" rel="external">Paste</a> - Paste 클립보드 매니저</li>
 <li><em>(언제든지 추가 변경 될 수 있음)</em></li>
 </ul>
 <h2 id="Command-Line-Tools"><a href="#Command-Line-Tools" class="headerlink" title="Command Line Tools"></a>Command Line Tools</h2><h3 id="Install-homebrew"><a href="#Install-homebrew" class="headerlink" title="Install homebrew"></a>Install homebrew</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">/usr/bin/ruby <span class="_">-e</span> <span class="string">"<span class="variable">$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)</span>"</span></div></pre></td></tr></table></figure>
@@ -55,6 +66,8 @@
 <p>Usage<br><figure class="highlight sh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># 검색</span></div><div class="line">brew cask search &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask search chrome</div><div class="line"></div><div class="line"><span class="comment"># 목록</span></div><div class="line">brew cask list</div><div class="line"></div><div class="line"><span class="comment"># 설치</span></div><div class="line">brew cask install &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask install google-chrome</div><div class="line"></div><div class="line"><span class="comment"># 삭제</span></div><div class="line">brew cask uninstall &lt;cask-name&gt;</div><div class="line"><span class="comment">## Example</span></div><div class="line">brew cask uninstall google-chrome</div></pre></td></tr></table></figure></p>
 <p><img src="https://i.imgur.com/WYa2557.gif" width="450px" alt="Installing Atom (animated gif)"></p>
 <p>자세한 사용법 공식 <a href="https://github.com/caskroom/homebrew-cask/blob/master/USAGE.md" target="_blank" rel="external">Usage</a> 참조</p>
+<h2 id="Setting"><a href="#Setting" class="headerlink" title="Setting"></a>Setting</h2><h3 id="iTerm2-Oh-My-Zsh"><a href="#iTerm2-Oh-My-Zsh" class="headerlink" title="iTerm2 + Oh My Zsh"></a>iTerm2 + Oh My Zsh</h3><p><img src="https://gist.githubusercontent.com/kevin-smets/9722391f8b3e4fa436b1c1dcf05ecd88/raw/29389beaa891f939e274b8e20622647357e793d4/powerlevel9k.png" alt="iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font + [Powerlevel9k]"></p>
+<p><a href="https://gist.github.com/kevin-smets/8568070" target="_blank" rel="external">설정 링크</a></p>
 ]]></content:encoded>
       
       <comments>http://minipaper.github.io/2016/09/08/useful-mac-software/#disqus_thread</comments>
