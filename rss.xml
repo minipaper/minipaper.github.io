@@ -8,14 +8,14 @@
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>minipaper&#39;s IT DEV Blog</description>
-    <pubDate>Mon, 01 May 2017 10:41:59 GMT</pubDate>
+    <pubDate>Mon, 01 May 2017 10:43:56 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>내가 설치한 프로그램</title>
-      <link>http://minipaper.github.io/2016/09/08/useful-mac-software/</link>
-      <guid>http://minipaper.github.io/2016/09/08/useful-mac-software/</guid>
-      <pubDate>Wed, 07 Sep 2016 15:33:54 GMT</pubDate>
+      <link>http://minipaper.github.io/2017/05/01/useful-mac-software/</link>
+      <guid>http://minipaper.github.io/2017/05/01/useful-mac-software/</guid>
+      <pubDate>Mon, 01 May 2017 10:43:54 GMT</pubDate>
       <description>
       
         &lt;h2 id=&quot;Useful-Application&quot;&gt;&lt;a href=&quot;#Useful-Application&quot; class=&quot;headerlink&quot; title=&quot;Useful Application&quot;&gt;&lt;/a&gt;Useful Application&lt;/h2&gt;&lt;p&gt;유용하게 사
@@ -35,10 +35,8 @@
 <li><a href="https://www.sourcetreeapp.com" target="_blank" rel="external">Sourcetree</a> – Git GUI client</li>
 <li><a href="http://www.google.co.uk/chrome" target="_blank" rel="external">Google Chrome</a> – Web browser</li>
 <li><a href="https://lhc70000.github.io/iina/" target="_blank" rel="external">IINA</a> – The modern video player for macOS</li>
-<li><a href="http://www.iterm2.com" target="_blank" rel="external">iTerm2</a> – Terminal replacement<blockquote>
-<p><a href="http://ohmyz.sh/" target="_blank" rel="external">oh my zsh</a> – plugins</p>
-</blockquote>
-</li>
+<li><a href="http://www.iterm2.com" target="_blank" rel="external">iTerm2</a> – Terminal replacement</li>
+<li><a href="http://ohmyz.sh/" target="_blank" rel="external">oh my zsh</a> – Terminal plugins</li>
 <li><a href="https://itunes.apple.com/kr/app/magnet-%EB%A7%88%EA%B7%B8%EB%84%B7/id441258766?mt=12" target="_blank" rel="external">Magnet</a> – window split</li>
 <li><a href="https://www.jetbrains.com/idea/" target="_blank" rel="external">IntelliJ IDEA</a> - IDE 툴</li>
 <li><a href="http://www.cockos.com/licecap/" target="_blank" rel="external">LICEcap</a> – 움직이는 GIF 만들기</li>
@@ -70,7 +68,7 @@
 <p><a href="https://gist.github.com/kevin-smets/8568070" target="_blank" rel="external">설정 링크</a></p>
 ]]></content:encoded>
       
-      <comments>http://minipaper.github.io/2016/09/08/useful-mac-software/#disqus_thread</comments>
+      <comments>http://minipaper.github.io/2017/05/01/useful-mac-software/#disqus_thread</comments>
     </item>
     
   </channel>
