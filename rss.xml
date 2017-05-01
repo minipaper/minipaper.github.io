@@ -8,47 +8,8 @@
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>minipaper&#39;s IT DEV Blog</description>
-    <pubDate>Mon, 01 May 2017 09:07:29 GMT</pubDate>
+    <pubDate>Mon, 01 May 2017 09:11:16 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>Guide to programming</title>
-      <link>http://minipaper.github.io/2016/09/11/guide-to-programming/</link>
-      <guid>http://minipaper.github.io/2016/09/11/guide-to-programming/</guid>
-      <pubDate>Sun, 11 Sep 2016 01:11:28 GMT</pubDate>
-      <description>
-      
-        &lt;h1 id=&quot;문서-작성중&quot;&gt;&lt;a href=&quot;#문서-작성중&quot; class=&quot;headerlink&quot; title=&quot; 문서 작성중 &quot;&gt;&lt;/a&gt;&lt;strong&gt; 문서 작성중 &lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;&lt;strong&gt; On this page &lt;/strong&gt;&lt;/
-      
-      </description>
-      
-      <content:encoded><![CDATA[<h1 id="문서-작성중"><a href="#문서-작성중" class="headerlink" title=" 문서 작성중 "></a><strong> 문서 작성중 </strong></h1><p><strong> On this page </strong></p>
-<h2 id="Gradle"><a href="#Gradle" class="headerlink" title="Gradle"></a>Gradle</h2><p>Gradle은 Groovy를 이용한 빌드 시스템이다. Groovy와 유사한 도메인 언어를 채용하였으며, 현재 안드로이드 앱을 만드는데 필요한 안드로이드 스튜디오의 공식 빌드 시스템이기도 하다. Java, C/C++, Python 등과 같은 여러 가지 언어를 지원한다.</p>
-<h3 id="Site"><a href="#Site" class="headerlink" title="Site"></a>Site</h3><ul>
-<li><a href="https://gradle.org/" target="_blank" rel="external">공식 사이트</a></li>
-</ul>
-<h3 id="Tutorial"><a href="#Tutorial" class="headerlink" title="Tutorial"></a>Tutorial</h3><ul>
-<li>무식하게 배우는 gradle: <a href="http://www.slideshare.net/ihoneymon/gradle-27152839" target="_blank" rel="external">slideshare 김지헌님(ko)</a>, <a href="https://github.com/ihoneymon/rocking-the-gradle" target="_blank" rel="external">githup(ko)</a></li>
-<li><a href="http://dynaticy.tistory.com/entry/Gradle%EB%A1%9C-SpringMVC-%EC%95%84%EC%A3%BC-%EC%89%BD%EA%B2%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%9A%A9" target="_blank" rel="external">Gradle로 SpringMVC 아주 쉽게! 구축하기</a></li>
-</ul>
-<h2 id="GitLab"><a href="#GitLab" class="headerlink" title="GitLab"></a>GitLab</h2><p>버전관리 시스템을 구현한 구체적인 제품 중의 하나로 분산형 버전관리 시스템이라는 특징을 가지고 있고, 가장 많이 사용하는 버전관리 시스템 중의 하나다.</p>
-<h3 id="Site-1"><a href="#Site-1" class="headerlink" title="Site"></a>Site</h3><ul>
-<li><a href="https://about.gitlab.com" target="_blank" rel="external">공식 사이트</a></li>
-<li><a href="https://git-scm.com/book/ko/v2/Git-%EC%84%9C%EB%B2%84-GitLab" target="_blank" rel="external">Git 서버 - GitLab</a></li>
-</ul>
-<h3 id="Tutorial-1"><a href="#Tutorial-1" class="headerlink" title="Tutorial"></a>Tutorial</h3><ul>
-<li><a href="https://opentutorials.org/course/785/4933" target="_blank" rel="external">생활코딩</a></li>
-</ul>
-<h3 id="종류"><a href="#종류" class="headerlink" title="종류"></a>종류</h3><ul>
-<li>GitLab CE: Community Edition</li>
-<li>GitLab EE: Enterprise Edition</li>
-</ul>
-<p>###</p>
-<h2 id="References"><a href="#References" class="headerlink" title="References"></a>References</h2><p><a href="http://www.freepik.com/free-vector/student-reading-illustration_826080.htm" target="_blank" rel="external">Student Reading Illustration Designed by Freepik</a></p>
-]]></content:encoded>
-      
-      <comments>http://minipaper.github.io/2016/09/11/guide-to-programming/#disqus_thread</comments>
-    </item>
     
     <item>
       <title>내가 설치한 프로그램</title>
